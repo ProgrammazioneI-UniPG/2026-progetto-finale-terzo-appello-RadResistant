@@ -2,11 +2,13 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Raffaele
 
-## Cognome: 
+## Cognome: Saponaro
 
-## Matricola:
+## Matricola: 389998
 
-## Commenti/modifiche al progetto:
-
+## Commenti/modifiche al progetto: 
+    - Nelle zone delle mappe al posto di avere solo tipo nemico vi è stata creata una struct per il nemico
+    - Nella struct giocatore è stato aggiunto il campo puntiVita
+    - Creata una nuova struct per i punteggi
